@@ -2,7 +2,7 @@
 
 [https://idlesome.github.io/police-api](https://idlesome.github.io/police-api)
 
-This React app is incomplete but functional as I didn't have enough time to fully complete it. My priority was on completing as much functionality as possible rather than writing clean code and unit tests as I wouldn't have had much to show for two hours work otherwise. Perhaps it is possible to achieve much more within 2 hours on Angular!
+This React app is incomplete but functional as I didn't have enough time to fully complete it - I had not worked with plotting on maps prior to this. My priority was on completing as much functionality as possible rather than writing clean code and unit tests as I wouldn't have had much to show for two hours work otherwise.
 
 It:
 - Uses the Police API at data.police.uk to plot markers on a map for crimes that happened in January 2018 in Newbury (no data available for 2019 yet)
